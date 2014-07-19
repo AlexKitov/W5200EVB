@@ -476,13 +476,13 @@ ARM Macro Assembler    Page 8
               00000200 
               00000000 
 Command Line: --debug --xref --cpu=Cortex-M3 --apcs=interwork --depend=.\object
-s\startup_stm32f10x_md.d -o.\objects\startup_stm32f10x_md.o -ID:\_MicProject\Wi
-zNet\KeilProject\W5200EVB_App\RTE -ID:\_MicProject\WizNet\KeilProject\W5200EVB_
-App\RTE\Device\STM32F103C8 -ID:\_MicProject\Keil\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS
-\Include -ID:\_MicProject\Keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include
- -ID:\_MicProject\Keil\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Drive
-r\inc --predefine="__EVAL SETA 1" --list=.\listing\startup_stm32f10x_md.lst RTE
-\Device\STM32F103C8\startup_stm32f10x_md.s
+s\startup_stm32f10x_md.d -o.\objects\startup_stm32f10x_md.o -ID:\GitHub\W5200EV
+B\W5200EVB_App\RTE -ID:\GitHub\W5200EVB\W5200EVB_App\RTE\Device\STM32F103C8 -ID
+:\_MicProject\Keil\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include -ID:\_MicProject\Keil
+\ARM\PACK\Keil\STM32F1xx_DFP\1.0.5\Device\Include -ID:\_MicProject\Keil\ARM\PAC
+K\Keil\STM32F1xx_DFP\1.0.5\Device\StdPeriph_Driver\inc --predefine="__EVAL SETA
+ 1" --list=.\listing\startup_stm32f10x_md.lst RTE\Device\STM32F103C8\startup_st
+m32f10x_md.s
 
 
 

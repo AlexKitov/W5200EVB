@@ -1,9 +1,9 @@
 --cpu Cortex-M3
 ".\objects\loopback.o"
 ".\objects\retarget.o"
+".\objects\stm32f10x_it.o"
 ".\objects\main.o"
 ".\objects\util.o"
-".\objects\stm32f10x_it.o"
 ".\objects\md5.o"
 ".\objects\socket.o"
 ".\objects\spi2.o"
